@@ -1,0 +1,9 @@
+theme: sim_gh_page_theme
+title: Test titre
+baseurl: "/simGhPageTheme"
+plugins:
+  - jekyll-assets
+header:
+  logo: https://docs.simplicite.io/logos/logo250.png
+  title: Simplicité custom theme
+  description: Custom jekyll theme based on simplicité chart.
