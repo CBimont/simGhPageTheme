@@ -6,5 +6,5 @@ Gem::Specification.new do |spec|
     spec.authors       = ["Candice Bimont"]
     spec.email         = ["cbimont@simplicite.fr"]
     spec.files         = Dir["**/*"] - Dir["**/*.gemspec"]
-    spec.homepage      = "URL de votre projet"
+    spec.homepage      = "https://github.com/CBimont/simGhPageTheme"
   end
