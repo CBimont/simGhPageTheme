@@ -7,4 +7,6 @@ Gem::Specification.new do |spec|
     spec.email         = ["cbimont@simplicite.fr"]
     spec.files         = Dir["**/*"] - Dir["**/*.gemspec"]
     spec.homepage      = "https://github.com/CBimont/simGhPageTheme"
-  end
+    spec.required_ruby_version = ">= 2.5.0"
+    spec.add_dependency "jekyll", "~> 3.10.0"
+end
